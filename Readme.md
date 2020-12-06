@@ -1,3 +1,7 @@
+# Right now, I'm trying to figure out how this has been coded to redesign the whole interface to my own usage, since besides the funcionality, the only thing that I wanted that is the On-screen keyboard looks pretty ugly 😬.
+
+
+
 CtrlUI (Controller User Interface) is a Windows application, game and emulator launcher for your game controller,
 this application allow you to run all your favorite applications from one location with lots of useful features.
 
