@@ -1,4 +1,4 @@
-# Right now, I'm trying to figure out how this has been coded to redesign the whole interface to my own usage, since besides the funcionality, the only thing that I wanted that is the On-screen keyboard looks pretty ugly 😬.
+# Right now, I'm trying to figure out how this thing has been coded to redesign the whole interface for my own usage, since besides the funcionality, the only thing that I wanted in this that is the On-screen keyboard looks pretty ugly 😬.
 
 
 
